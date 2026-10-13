@@ -1,0 +1,6 @@
+{
+  "name": "Kuis Susun Kata S-P-O-K",
+  "description": "Game kuis interaktif edukatif Bahasa Indonesia untuk menyusun dan menganalisis struktur kalimat Subjek, Predikat, Objek, dan Keterangan (S-P-O-K) dengan mode Host & Peserta, avatar kustom, dan leaderboard realtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
